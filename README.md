@@ -1,6 +1,6 @@
 # Readme.md
 Readme
-![NEW](https://user-images.githubusercontent.com/58104674/123948552-26ed5100-d9bf-11eb-9a76-96dcda13d870.gif)
+![NEW]
 <h1 align="center">massfollowers 2.0 OFFICAL BETA 🤖</h1 align="center"> 
 massfollowers is an Instagram Automation Program that automates some options for you. You can run the bot and it will start building real, organic 
 followers to your account. You can get average 150-200 followers every day And Yet our BOT not violate any of Instagram's Limitation, so you don't have to worry about getting 
